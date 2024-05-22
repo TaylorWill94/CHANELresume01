@@ -3,6 +3,8 @@ import c from "./c_letter.png";
 import h from "./h_letter.png";
 import a from "./a_letter.png";
 import n from "./n_letter.png";
+import e from "./e_letter.png";
+import l from "./l_letter.png";
 
 function Home() {
   return (
@@ -19,7 +21,8 @@ function Home() {
           <img className="h" src={h} alt="the letter c" width="100" />
           <img className="a" src={a} alt="the letter c" width="100" />
           <img className="n" src={n} alt="the letter c" width="100" />
-          <img className="a" src={a} alt="the letter c" width="100" />
+          <img className="e" src={e} alt="the letter c" width="100" />
+          <img className="l" src={l} alt="the letter c" width="100" />
         </div>
         <div>
           <h1>YOU</h1>

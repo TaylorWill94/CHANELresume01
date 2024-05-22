@@ -13,7 +13,10 @@
 
 .c,
 .h,
-.a {
+.a,
+.n,
+.e,
+.l {
   animation: bounce 0.75s infinite;
 }
 
