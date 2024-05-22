@@ -1,4 +1,5 @@
 import "./Home.css";
+import c from "./c_letter.png";
 
 function Home() {
   return (
@@ -11,6 +12,7 @@ function Home() {
       <div className="section">
         <div>
           <h1>ME</h1>
+          <img className="c" src={c} alt="the letter c" width="100" />
         </div>
         <div>
           <h1>YOU</h1>
