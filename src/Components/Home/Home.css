@@ -1,0 +1,12 @@
+.home {
+  text-align: center;
+  color: rgb(255, 177, 237);
+}
+
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: white;
+  background: rgb(110, 161, 121);
+}
