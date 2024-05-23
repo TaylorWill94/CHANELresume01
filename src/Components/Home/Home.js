@@ -37,7 +37,7 @@ function Home() {
           <img className="l" src={l} alt="the letter c" width="100" /> */}
         </div>
         <div className="you">
-          <h1>YOU</h1>
+          <h1>STYLES</h1>
         </div>
       </div>
     </>
