@@ -28,7 +28,7 @@ function Home() {
       </div>
       <div className="section">
         <div className="skills">
-          <h1>Skills</h1>
+          {/* <h1>Skills</h1> */}
           <p>MICROSOFT WORD</p>
           <p>EXCEL</p>
           <p>COMMUNICATION</p>
@@ -41,11 +41,13 @@ function Home() {
           <img className="l" src={l} alt="the letter c" width="100" /> */}
         </div>
         <div className="you">
-          <h1>Styles</h1>
+          {/* <h1>Styles</h1> */}
+          <button className="see-more">SEE MORE</button>
         </div>
 
         <div className="contact">
-          <h1>Contact</h1>
+          {/* <h1>Contact</h1> */}
+          <button className="see-more">CONTACT</button>
         </div>
       </div>
     </>

@@ -21,19 +21,26 @@
 
 .skills {
   padding: 10%;
-  background: #f7f7f7;
+  background: #111e32;
+  color: white;
   text-align: center;
 }
 
 .you {
   padding: 10%;
-  background: #f7f7f7;
+  background: #90bbca;
   text-align: center;
+}
+
+.see-more {
+  background: white;
+  padding: 10px;
+  border: none;
 }
 
 .contact {
   padding: 10%;
-  background: #f7f7f7;
+  background: #efe8dd;
   text-align: center;
 }
 /* 
