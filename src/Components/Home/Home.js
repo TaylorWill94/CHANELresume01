@@ -5,6 +5,7 @@ import a from "./a_letter.png";
 import n from "./n_letter.png";
 import e from "./e_letter.png";
 import l from "./l_letter.png";
+// import Popup from "../Popup/Popup";
 
 function Home() {
   return (
@@ -20,6 +21,7 @@ function Home() {
           <img className="l" src={l} alt="the letter c" width="50" />
         </div>
 
+        {/* <Popup /> */}
         <div className="blurb">
           <h1>Hi, I'm Taylor</h1>
           <p>and here is a little about me 👋🏾</p>
