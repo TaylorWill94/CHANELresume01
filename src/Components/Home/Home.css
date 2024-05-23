@@ -63,6 +63,10 @@
   cursor: pointer;
 }
 
+a {
+  text-decoration: none;
+}
+
 /* 
 .c,
 .h,
