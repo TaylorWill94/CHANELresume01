@@ -43,7 +43,7 @@ function Home() {
         </div>
         <div className="you">
           {/* <h1>Styles</h1> */}
-          <button className="see-more">FASHION</button>
+          <button className="fash-btn">FASHION</button>
         </div>
 
         <div className="contact">
