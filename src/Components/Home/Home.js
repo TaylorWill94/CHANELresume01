@@ -12,12 +12,12 @@ function Home() {
       <div className="home">
         {/* <h1>CHANEL</h1> */}
         <div className="heading">
-          <img className="c" src={c} alt="the letter c" width="100" />
-          <img className="h" src={h} alt="the letter c" width="100" />
-          <img className="a" src={a} alt="the letter c" width="100" />
-          <img className="n" src={n} alt="the letter c" width="100" />
-          <img className="e" src={e} alt="the letter c" width="100" />
-          <img className="l" src={l} alt="the letter c" width="100" />
+          <img className="c" src={c} alt="the letter c" width="50" />
+          <img className="h" src={h} alt="the letter c" width="50" />
+          <img className="a" src={a} alt="the letter c" width="50" />
+          <img className="n" src={n} alt="the letter c" width="50" />
+          <img className="e" src={e} alt="the letter c" width="50" />
+          <img className="l" src={l} alt="the letter c" width="50" />
         </div>
 
         <div className="blurb">
