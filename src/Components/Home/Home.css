@@ -4,7 +4,7 @@
 }
 
 .heading {
-  border: 2px solid black;
+  border: 10px solid black;
   margin: 75px;
 }
 
@@ -12,8 +12,21 @@
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  color: rgb(255, 255, 255);
-  background: rgb(110, 161, 121);
+  color: rgb(0, 0, 0);
+}
+
+.skills {
+  border: 2px solid black;
+  padding: 50px;
+  background: #f7f7f7;
+  text-align: center;
+}
+
+.you {
+  border: 2px solid black;
+  padding: 50px;
+  background: #f7f7f7;
+  text-align: center;
 }
 
 .c,
@@ -25,7 +38,7 @@
   animation: bounce 0.75s infinite;
 }
 
-@keyframes bounce {
+/* @keyframes bounce {
   0%,
   20%,
   50%,
@@ -39,7 +52,7 @@
   20% {
     transform: translateY(-5px);
   }
-}
+} */
 
 .c:hover {
   transition: 2s;
