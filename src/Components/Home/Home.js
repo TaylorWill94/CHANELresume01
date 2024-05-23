@@ -11,7 +11,7 @@ function Home() {
     <>
       <div className="home">
         {/* <h1>CHANEL</h1> */}
-        <div>
+        <div className="heading">
           <img className="c" src={c} alt="the letter c" width="100" />
           <img className="h" src={h} alt="the letter c" width="100" />
           <img className="a" src={a} alt="the letter c" width="100" />
@@ -19,8 +19,8 @@ function Home() {
           <img className="e" src={e} alt="the letter c" width="100" />
           <img className="l" src={l} alt="the letter c" width="100" />
         </div>
-        <h1>Taylor Williams</h1>
-        <h2>Why you should hire me?</h2>
+        <h1>TAYLOR WILLIAMS</h1>
+        <h2>why you should hire me?</h2>
       </div>
       <div className="section">
         <div>

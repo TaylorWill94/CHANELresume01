@@ -1,13 +1,18 @@
 .home {
   text-align: center;
-  color: rgb(255, 177, 237);
+  color: rgb(0, 0, 0);
+}
+
+.heading {
+  border: 2px solid black;
+  margin: 75px;
 }
 
 .section {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  color: white;
+  color: rgb(255, 255, 255);
   background: rgb(110, 161, 121);
 }
 
@@ -34,4 +39,9 @@
   20% {
     transform: translateY(-5px);
   }
+}
+
+.c:hover {
+  transition: 2s;
+  width: 110px;
 }
