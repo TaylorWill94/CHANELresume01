@@ -9,7 +9,7 @@
 }
 
 .blurb {
-  margin: 50px;
+  margin: 15%;
 }
 
 .section {
@@ -21,6 +21,7 @@
 
 .skills {
   padding: 10%;
+  width: 100%;
   background: #111e32;
   color: white;
   text-align: center;
@@ -28,20 +29,22 @@
 
 .you {
   padding: 10%;
+  width: 100%;
   background: #90bbca;
   text-align: center;
 }
 
+.contact {
+  padding: 10%;
+  width: 100%;
+  background: #efe8dd;
+  text-align: center;
+}
 .see-more {
   background: white;
   padding: 10px;
   border: none;
-}
-
-.contact {
-  padding: 10%;
-  background: #efe8dd;
-  text-align: center;
+  cursor: pointer;
 }
 /* 
 .c,

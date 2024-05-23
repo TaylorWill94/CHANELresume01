@@ -29,10 +29,11 @@ function Home() {
       <div className="section">
         <div className="skills">
           {/* <h1>Skills</h1> */}
-          <p>MICROSOFT WORD</p>
+          <button className="see-more">SKILLS</button>
+          {/* <p>MICROSOFT WORD</p>
           <p>EXCEL</p>
           <p>COMMUNICATION</p>
-          <p>PHOTOSHOP</p>
+          <p>PHOTOSHOP</p> */}
           {/* <img className="c" src={c} alt="the letter c" width="100" />
           <img className="h" src={h} alt="the letter c" width="100" />
           <img className="a" src={a} alt="the letter c" width="100" />
