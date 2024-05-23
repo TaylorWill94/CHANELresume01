@@ -19,13 +19,16 @@ function Home() {
           <img className="e" src={e} alt="the letter c" width="100" />
           <img className="l" src={l} alt="the letter c" width="100" />
         </div>
-        <h1>Hi, I'm Taylor</h1>
-        <p>and here is a little about me 👋🏾</p>
-        {/* <h2>why you should hire me?</h2> */}
+
+        <div className="blurb">
+          <h1>Hi, I'm Taylor</h1>
+          <p>and here is a little about me 👋🏾</p>
+          {/* <h2>why you should hire me?</h2> */}
+        </div>
       </div>
       <div className="section">
         <div className="skills">
-          <h1>SKILLS</h1>
+          <h1>Skills</h1>
           <p>MICROSOFT WORD</p>
           <p>EXCEL</p>
           <p>COMMUNICATION</p>
@@ -38,7 +41,11 @@ function Home() {
           <img className="l" src={l} alt="the letter c" width="100" /> */}
         </div>
         <div className="you">
-          <h1>STYLES</h1>
+          <h1>Styles</h1>
+        </div>
+
+        <div className="contact">
+          <h1>Contact</h1>
         </div>
       </div>
     </>
